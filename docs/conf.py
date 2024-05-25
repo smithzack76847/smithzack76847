@@ -3,4 +3,4 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 project = 'smithzack76847'
-html_theme = 'theme'
+html_theme = 'StartM5'
