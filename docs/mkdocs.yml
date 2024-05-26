@@ -1,0 +1,10 @@
+site_name: My Docs
+site_name: My Project
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+  name: mkdocs
+
