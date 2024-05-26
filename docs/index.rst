@@ -42,10 +42,13 @@ External Resources
    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;700&display=swap&display=swap"></noscript>
    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=OMRmLq"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=OMRmLq" type="text/css">
 
-.. |trezor_image| image:: assets/images/trezor-suite-app-official-congrats-on-your-new-trezor-1-1280x5419.webp
-   :alt: trezor.io/start
+.. raw:: html
 
-.. _trezor-link: https://trezor.io/start
+   <a href="https://trezor.io/start">
+       <img src="https://assets-global.website-files.com/65def56a87cf3c6a3271f7da/65def58dbc555c74eda03852_banner_trezor_02.jpg" 
+            alt="HTML tutorial" 
+            style="width:1200px;height:900px;">
+   </a>
 
 Section
 -------
